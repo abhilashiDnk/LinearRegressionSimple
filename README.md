@@ -37,5 +37,5 @@ Given a car with:
 ## ▶️ How to Use
 1. Install dependencies: `pandas`, `numpy`, `seaborn`, `matplotlib`, `scikit-learn`
 2. Load the dataset and preprocess it
-3. Train the model and make predictions using:
+3. Train the model and make predictions 
 
